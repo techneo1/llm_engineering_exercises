@@ -47,3 +47,4 @@ feedparser
 #########
 ipykernel
 groq
+playwright
